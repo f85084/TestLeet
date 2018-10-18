@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestLeet", "TestLeet\TestLeet.csproj", "{C4EBFE2B-55F6-4CCB-B5AD-C557D7B67652}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestLeetTests", "TestLeetTests\TestLeetTests.csproj", "{06025EB4-E9E4-49A1-A255-49DE31C493E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C4EBFE2B-55F6-4CCB-B5AD-C557D7B67652}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4EBFE2B-55F6-4CCB-B5AD-C557D7B67652}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4EBFE2B-55F6-4CCB-B5AD-C557D7B67652}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06025EB4-E9E4-49A1-A255-49DE31C493E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06025EB4-E9E4-49A1-A255-49DE31C493E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06025EB4-E9E4-49A1-A255-49DE31C493E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06025EB4-E9E4-49A1-A255-49DE31C493E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
