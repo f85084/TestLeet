@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace TestLeet.Tests
 {
-    //Arrange: 初始化目標物件、相依物件、方法參數、預期結果，或是預期與相依物件的互動方式222
+    //Arrange: 初始化目標物件、相依物件、方法參數、預期結果，或是預期與相依物件的互動方式111
     //Act: 呼叫目標物件的方法
     //Assert: 驗證是否符合預期
     [TestClass()]
