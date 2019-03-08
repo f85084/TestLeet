@@ -33,6 +33,7 @@ namespace TestLeet
             for (int i = 0; i < 2; i++)
             Console.WriteLine(result[i]);
             Console.ReadLine();
+            Console.ReadLine();
 
 
 
